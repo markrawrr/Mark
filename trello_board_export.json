@@ -1,0 +1,75 @@
+{
+    "name": "Gestão de Equipamentos - Produção de Café",
+    "desc": "Quadro Scrum para gerenciamento das atividades do módulo de Equipamentos.",
+    "lists": [
+        {
+            "name": "To Do",
+            "cards": [
+                {
+                    "name": "Criar cadastro de equipamento",
+                    "desc": "Responsável: Dev Backend"
+                },
+                {
+                    "name": "Criar tela de lista de equipamentos",
+                    "desc": "Responsável: Dev Frontend"
+                },
+                {
+                    "name": "Registrar manutenção",
+                    "desc": "Responsável: Dev Backend"
+                },
+                {
+                    "name": "Registrar movimentação de equipamento",
+                    "desc": "Responsável: Dev Backend"
+                }
+            ]
+        },
+        {
+            "name": "Work In Progress",
+            "cards": [
+                {
+                    "name": "Atualizar dados do equipamento",
+                    "desc": "Responsável: Dev Backend"
+                },
+                {
+                    "name": "Tela de detalhes do equipamento",
+                    "desc": "Responsável: Dev Frontend"
+                }
+            ]
+        },
+        {
+            "name": "In Review",
+            "cards": [
+                {
+                    "name": "Cadastro de equipamento",
+                    "desc": "Aguardando validação"
+                },
+                {
+                    "name": "Lista de equipamentos",
+                    "desc": "Aguardando validação"
+                }
+            ]
+        },
+        {
+            "name": "Blocked",
+            "cards": [
+                {
+                    "name": "Exclusão de equipamento",
+                    "desc": "Bloqueado: aguardando design finalizado"
+                }
+            ]
+        },
+        {
+            "name": "Done",
+            "cards": [
+                {
+                    "name": "Modelo de banco de dados de equipamentos",
+                    "desc": "Concluído"
+                },
+                {
+                    "name": "Estrutura inicial do backend",
+                    "desc": "Concluído"
+                }
+            ]
+        }
+    ]
+}
